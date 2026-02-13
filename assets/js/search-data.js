@@ -433,16 +433,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-am-excited-to-share-that-i-have-joined-epfl-as-a-computer-science-ph-d-student-i-will-be-part-of-the-edic-fellowship-program-and-a-member-of-the-sens-lab-looking-forward-to-working-on-wireless-sensing-and-3d-vision-in-lausanne-switzerland",
+          title: 'I am excited to share that I have joined EPFL as a Computer...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-my-work-on-hdmap-translating-images-to-road-network-a-sequence-to-sequence-perspective-is-accepted-by-tpami-car",
+          title: 'My work on HDMap Translating Images to Road Network: A Sequence-to-Sequence Perspective is...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-my-work-on-wireless-imaging-geraf-neural-geometry-reconstruction-from-radio-frequency-signals-is-accepted-as-spotlight-by-neurips-2025-smile",
+          title: 'My work on wireless imaging GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
